@@ -1,6 +1,6 @@
 {
   "name": "mongoose-intl-konzek",
-  "version": "3.1.2",
+  "version": "3.1.3",
   "description": "Mongoose schema plugin for multilingual fields",
   "main": "lib/mongoose-intl.js",
   "scripts": {
